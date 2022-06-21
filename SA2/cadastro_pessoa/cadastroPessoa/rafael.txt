@@ -1,0 +1,5 @@
+Nome:Rafael
+Data de Nascimento: 12/10/1999
+CPF: 12345678992 
+Endereço: Endereço: rua sem saida 12, bbb. Endereço comercial? Não
+Rendimento: 1000,00
